@@ -6,9 +6,9 @@ package com.manoj.test;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.maoj.test.A;
-import com.maoj.test.B;
-import com.maoj.test.Example1;
+import com.manoj.learning.A;
+import com.manoj.learning.B;
+import com.manoj.learning.Example1;
 
 import junit.framework.TestCase;
 
@@ -20,7 +20,7 @@ public class Example1Test extends TestCase {
 
 	/**
 	 * Test method for
-	 * {@link com.maoj.test.Example1#sortListOfClasses(java.util.List)}.
+	 * {@link com.manoj.learning.Example1#sortListOfClasses(java.util.List)}.
 	 */
 	public void testSortListOfClasses() {
 

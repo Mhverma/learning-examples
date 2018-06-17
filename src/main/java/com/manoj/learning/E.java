@@ -1,4 +1,4 @@
-package com.maoj.test;
+package com.manoj.learning;
 
 public interface E {
 
